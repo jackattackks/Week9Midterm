@@ -6,7 +6,6 @@ Write the following two classes:  Whole and Part.
 What is the sequence in which constructors and destructors are executed?
 
 Step1 -	Define two classes, Whole and part.  Use a strong "has a" relationship with the two classes.
-
 Constructor Functions
 	Define a default constructor for the Part class.
 		Default just prints out "In default part constructor"
